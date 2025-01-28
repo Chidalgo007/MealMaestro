@@ -14,3 +14,9 @@
 .cxx
 local.properties
 app/src/main/assets/api_keys.properties
+app/google-service.json
+app/src/main/assets/serviceAccountKey.json
+app/src/main/java/com/example/mealmaestro/OkHttpClient.kt
+app/src/main/java/com/example/mealmaestro/AiFragment.kt
+api_keys.properties
+google-services.json
